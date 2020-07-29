@@ -92,7 +92,7 @@
 	<link rel="stylesheet" type="text/css" href="css/shared_styles.css">
 	<link rel="stylesheet" type="text/css" href="css/lists.css">
 	<link rel="stylesheet" type="text/css" href="css/responsive.css">
-	<link rel="icon" href="img/icon.jpg">
+	<link rel="icon" href="img/icon.png">
 
 	<link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
 </head>

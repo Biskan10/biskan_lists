@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/shared_styles.css">
 	<link rel="stylesheet" type="text/css" href="css/login.css">
 	<link rel="stylesheet" type="text/css" href="css/responsive.css">
-	<link rel="icon" href="img/icon.jpg">
+	<link rel="icon" href="img/icon.png">
 </head>
 <body>
 	<div id="navbar">
